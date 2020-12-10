@@ -1,0 +1,33 @@
+.gradle
+/build/
+/out/
+/test-output/
+!gradle/wrapper/gradle-wrapper.jar
+/*/build
+/*/out
+/tomcat
+.*DS
+.cache-main
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+/bin/
+
+### Eclipse ###
+.settings
+.classpath
+.project
+
+### Mac OS ###
+.DS_Store
